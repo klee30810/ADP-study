@@ -162,3 +162,5 @@ cython_debug/
 *.csv
 *.xlsx
 .DS_Store
+
+mock_exam/
