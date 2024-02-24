@@ -163,4 +163,4 @@ cython_debug/
 *.xlsx
 .DS_Store
 
-mock_exam/
+groupstudy/
